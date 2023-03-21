@@ -1,0 +1,32 @@
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$ pwd
+/home/ec2-user
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$ git clone git@github.com:kattaramarao/project1.git
+Cloning into 'project1'...
+The authenticity of host 'github.com (140.82.112.3)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+warning: You appear to have cloned an empty repository.
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$
+[ec2-user@ip-172-31-9-233 ~]$ ls
+project1
+[ec2-user@ip-172-31-9-233 ~]$ cd project1/
+[ec2-user@ip-172-31-9-233 project1]$
+[ec2-user@ip-172-31-9-233 project1]$
+[ec2-user@ip-172-31-9-233 project1]$
+[ec2-user@ip-172-31-9-233 project1]$
+[ec2-user@ip-172-31-9-233 project1]$ vim file.txt
+[ec2-user@ip-172-31-9-233 project1]$ vi file1.txt
+[ec2-user@ip-172-31-9-233 project1]$ ls
+file1.tx
